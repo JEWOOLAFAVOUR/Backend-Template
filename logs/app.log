@@ -1,0 +1,2 @@
+POST /api/v1/auth/register/ 400 12.518 ms
+POST /api/v1/auth/register/ 400 13.917 ms
