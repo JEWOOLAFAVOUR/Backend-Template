@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "jewoola favour",
   "license": "ISC",
   "dependencies": {
     "@types/express-serve-static-core": "^5.0.6",
